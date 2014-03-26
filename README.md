@@ -34,4 +34,26 @@ Brainstorming
   * Github search by language
 * Discoverability
 * Software carpentry version control still really needed
-* 
+* http://www.phdcomics.com/comics/archive.php?comicid=1323
+* http://www.phdcomics.com/comics/archive.php?comicid=1531
+* Make it part of degree?
+* Syllabus for software practices
+
+Pitch ideas
+-----------
+
+* Syllabus
+* Outreach
+* Find reviewers
+* Buddy generator
+  * Code review
+  * Code discovery
+  * Public/private
+  * Github api against academia.edu
+  * Code repository with academic profile
+    * Find someone similar 
+  * Be repository agnostic:
+    * Create a more general API so other things can plug in
+  * Match on algorithms/methods as well as subject areas
+  * ORCID/Google Scholar/WoS
+  * 
