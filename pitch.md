@@ -32,5 +32,5 @@ From:
 
 Use existing online searches and data to match and search.
 
-![Dating a programmer](http://cdn.cubiclebot.com/wp-content/uploads/2013/11/programmer-dating2.jpg)
+![Dating a programmer](http://www.sdtimes.com/images/1118.sdt-blog-dating.png)
 
