@@ -38,6 +38,8 @@ Brainstorming
 * http://www.phdcomics.com/comics/archive.php?comicid=1531
 * Make it part of degree?
 * Syllabus for software practices
+* Do easily checkable factors correlate with other quality measures
+  * Comments, formatting, tests 
 
 Pitch ideas
 -----------
@@ -56,4 +58,5 @@ Pitch ideas
     * Create a more general API so other things can plug in
   * Match on algorithms/methods as well as subject areas
   * ORCID/Google Scholar/WoS
-  * 
+  * Quality measurement tools
+    * Lint
