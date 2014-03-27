@@ -11,7 +11,7 @@ What are the five most important things learnt during this discussion:
 
 1. Both full and part time are valid options
 2. Both DI and DA can work
-3. Include track record of engineers if possible
+3. Suggest reviewers
 4. Look at examples of successful grants
 5. Use pathways to impact section to talk about justification
 
