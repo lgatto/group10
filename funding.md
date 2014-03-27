@@ -9,15 +9,11 @@ Name of Scribe: James Hetherington
 
 What are the five most important things learnt during this discussion:
 
-1.
-
-2.
-
-3.
-
-4.
-
-5.
+1. Both full and part time are valid options
+2. Both DI and DA can work
+3. Include track record of engineers if possible
+4. Look at examples of successful grants
+5. Use pathways to impact section to talk about justification
 
 What are the problems, and are there solutions?
 ===============================================
@@ -43,13 +39,18 @@ Solutions/tricks:
 * Use juicy job titles.
 
 What further work could be done, and who should do it (make a pledge)?
-----------------------------------------------------------------------
+======================================================================
 
 Make sure you're registered with the research areas field in JeS. 
   They use this to find reviewers (Pledge.)
   Also H2020 call for reviewers.
+  In free text keywords under classification of oneself in JeS, include "Research
+Software Engineer" and "Software Developer".
+  
+Community-curated repository of evidence. (SSI/UKRSE)
 
 Are there any useful resources that people should know about?
+=============================================================
 
 Other notes
 ===========
@@ -76,19 +77,9 @@ DI vs DA?
 DI can be better for track record?
 But DA if there's a resource pool.
 
-Tricks
-------
-
-
-
 Where to put it in the grant?
 -----------------------------
 
 Link to data management?
 Work plan, track record
 Pathways to impact
-
-Useful things
--------------
-
-Community-curated repository of evidence. (SSI/UKRSE)
