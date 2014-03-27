@@ -3,21 +3,64 @@ Making the case for funding a software developer
 
 Scope: all funding sources. RCUK, EU
 
+Name of Chair: Philip Fowler
+
+Name of Scribe: James Hetherington
+
+What are the five most important things learnt during this discussion:
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+What are the problems, and are there solutions?
+===============================================
+
+Problems:
+---------
+
+* Mixed community: peer reviewers may not be in software-driven research
+* The "technician" question.
+* What level to cost at?
+* Hard to get people to do part time
+* But front/back loading can be useful
+
+Solutions/tricks:
+-----------------
+
+* Post-award
+* Archer eCSE -- and general non-Archer call coming.
+* Regional infrastructures
+* RA repurposed...
+* Cost as an external contractor?
+* Suggested reviewers?
+* Use juicy job titles.
+
+What further work could be done, and who should do it (make a pledge)?
+----------------------------------------------------------------------
+
+Make sure you're registered with the research areas field in JeS. 
+  They use this to find reviewers (Pledge.)
+  Also H2020 call for reviewers.
+
+Are there any useful resources that people should know about?
+
+Other notes
+===========
+
 Why full time?
 --------------
 
 * Hard to find someone who will work part time.
 * May not be a pool of people around to do part time
 * Flexibility can help convince funders?
-* Front/back loading can be useful
 * Up to peer-review to decide whether full or part time best
-
-Why is it hard to make the case?
---------------------------------
-
-* Mixed community: peer reviewers may not be in software-driven research
-* The "technician" question.
-* What level to cost at?
 
 Who has tried
 -------------
@@ -36,14 +79,7 @@ But DA if there's a resource pool.
 Tricks
 ------
 
-Post-award
-Archer eCSE -- and general non-Archer call coming.
-Regional infrastructures
-RA repurposed...
-Cost as an external contractor?
-Suggested reviewers?
-Make sure you're registered with the research areas field in JeS. 
-  They use this to find reviewers (Pledge.)
+
 
 Where to put it in the grant?
 -----------------------------
